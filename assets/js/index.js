@@ -22,7 +22,7 @@ function create(nome, tag, parent, id, text, classSelector) {
 const container = create('container', 'div', section, 'container', '');
 
 // Titolo
-const title = create('header', 'h1', container, '', 'JS Counter', '');
+const title = create('header', 'h1', container, '', 'JavaScript Counter', '');
 
 // Contenitore Valore Counter
 const valueContainer = create('value-container', 'div', container, 'value-container', '');
@@ -45,6 +45,9 @@ const valueBtn = create('valueBtn', 'p', btnReset, 'btn-reset', 'Reset');
 const btnIncrement = create('btnIncrement', 'div', btnContainer, 'increment', '', 'btn');
 const valueBtnIncrement = create('valueBtnIncrement', 'p', btnIncrement, 'value-btn-increment', '+');
 
+// Blob
+
+const blob = create('blob', 'div', section, 'blob', '')
 
 
 
