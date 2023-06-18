@@ -11,7 +11,7 @@ I decided to leave the HTML blank and create all the elements with the various c
 First of all I create a function that being called assigns several parameters including the name, the class and the id. 
 After creating all the elements I created the counter function that makes the value always positive and changes it according to the button that is clicked.
 
-I use CSS for the graphics of the page. I created a transparent 'card' with a 'blob' in the background that moves inside the screen and that 'opens' when you hover over it. 
+I use CSS for the graphics of the page. I tried to make the page elegant and professional. I created a transparent 'card' with a 'blob' in the background that moves inside the screen and that 'opens' when you hover over it. 
 Finally I adapted the counter to the various devices through the use of media queries.
 
 # Technologies :computer:
